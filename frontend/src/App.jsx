@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Dashboard from './pages/Dashboard'
-import Diagnosis from './pages/Diagnosis'
+import Diagnosis from './pages/diagnosis'
 import History from './pages/History'
 
 function App() {
